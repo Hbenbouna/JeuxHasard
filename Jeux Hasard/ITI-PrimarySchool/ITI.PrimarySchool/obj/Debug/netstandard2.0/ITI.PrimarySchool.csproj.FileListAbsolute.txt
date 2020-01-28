@@ -1,0 +1,9 @@
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\bin\Debug\netstandard2.0\ITI.PrimarySchool.deps.json
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\bin\Debug\netstandard2.0\ITI.PrimarySchool.dll
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\bin\Debug\netstandard2.0\ITI.PrimarySchool.pdb
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\obj\Debug\netstandard2.0\ITI.PrimarySchool.csprojAssemblyReference.cache
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\obj\Debug\netstandard2.0\ITI.PrimarySchool.csproj.CoreCompileInputs.cache
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\obj\Debug\netstandard2.0\ITI.PrimarySchool.AssemblyInfoInputs.cache
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\obj\Debug\netstandard2.0\ITI.PrimarySchool.AssemblyInfo.cs
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\obj\Debug\netstandard2.0\ITI.PrimarySchool.dll
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool\obj\Debug\netstandard2.0\ITI.PrimarySchool.pdb

@@ -1,0 +1,17 @@
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.deps.json
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.runtimeconfig.json
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.runtimeconfig.dev.json
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.dll
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.pdb
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\ITI.PrimarySchool.dll
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\bin\Debug\netcoreapp2.2\ITI.PrimarySchool.pdb
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\obj\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.csprojAssemblyReference.cache
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\obj\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.csproj.CoreCompileInputs.cache
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\obj\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.AssemblyInfoInputs.cache
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\obj\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.AssemblyInfo.cs
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\obj\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.csproj.CopyComplete
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\obj\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.dll
+c:\Users\Hamza BENBOUNA\Desktop\ITI-PrimarySchool\ITI.PrimarySchool.Tests\obj\Debug\netcoreapp2.2\ITI.PrimarySchool.Tests.pdb

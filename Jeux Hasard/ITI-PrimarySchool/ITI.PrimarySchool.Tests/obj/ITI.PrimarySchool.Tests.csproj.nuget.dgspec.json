@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool.Tests\\ITI.PrimarySchool.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool.Tests\\ITI.PrimarySchool.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool.Tests\\ITI.PrimarySchool.Tests.csproj",
+        "projectName": "ITI.PrimarySchool.Tests",
+        "projectPath": "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool.Tests\\ITI.PrimarySchool.Tests.csproj",
+        "packagesPath": "C:\\Users\\Hamza BENBOUNA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hamza BENBOUNA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool\\ITI.PrimarySchool.csproj": {
+                "projectPath": "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool\\ITI.PrimarySchool.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool\\ITI.PrimarySchool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool\\ITI.PrimarySchool.csproj",
+        "projectName": "ITI.PrimarySchool",
+        "projectPath": "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool\\ITI.PrimarySchool.csproj",
+        "packagesPath": "C:\\Users\\Hamza BENBOUNA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamza BENBOUNA\\Desktop\\ITI-PrimarySchool\\ITI.PrimarySchool\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hamza BENBOUNA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

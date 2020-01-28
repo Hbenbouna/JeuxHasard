@@ -2,6 +2,7 @@ using JEUX_HASARD;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System;
+using System.IO;
 
 
 // <>
@@ -60,11 +61,14 @@ namespace JeuxHasardTest
 
             //N'existe pas dans le fichier json
             Compte compteToDelete2 = new Compte("Hamza", "hamza@oceane.fr", 1234, "Ben", "Hamza", 25, "Soldat");
-            
-            String path = @"C:\Users\USER\Desktop\HamzaBen\compte.json";
-            int resultDelete = Compte.DeleteCompte(path, compteToDelete);
 
-            Assert.AreEqual(Compte.DeleteCompte(path, compteToDelete2), 0);
+            string con = Directory.GetCurrentDirectory();
+            string t = "bin";
+            string dossCompte = "Compte.json";
+            string cheminCompte = con.Substring(0, con.IndexOf(t)) + dossCompte;
+            int resultDelete = Compte.DeleteCompte(cheminCompte, compteToDelete);
+
+            Assert.AreEqual(Compte.DeleteCompte(cheminCompte, compteToDelete2), 0);
 
             if (resultDelete != 1)
                 Assert.Fail();

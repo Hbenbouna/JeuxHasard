@@ -61,140 +61,18 @@ namespace JEUX_HASARD
         // ajouter un compte
         public int AddCompte(string path, Compte C)
         {
-
-            try
-            {
-
-                List<Compte> Comptes = new List<Compte>();
-                if (new FileInfo(path).Length > 0)
-                {
-                    string json;
-                    using (StreamReader r = new StreamReader(path))
-                    {
-                        json = r.ReadToEnd();
-                        Comptes = JsonConvert.DeserializeObject<List<Compte>>(json);
-                    }
-                    int indexDe = Compte.SearchCompte(Comptes, C);
-                    if (indexDe < 0)
-                    {
-                        C.id = lastID(path);
-                        Comptes.Add(C);
-                        System.IO.File.WriteAllText(path, string.Empty);
-                    }
-                    else
-                    {
-                        return -1;
-                    }
-                }
-                else
-                {
-                    Comptes.Add(C);
-                }
-
-                String JSONresultC = JsonConvert.SerializeObject(Comptes);
-
-                using (var tw = new StreamWriter(path, true))
-                {
-                    tw.WriteLine(JSONresultC.ToString());
-                    tw.Close();
-                }
-                return 1;
-            }
-            catch (IOException e)
-            {
-                Console.WriteLine("Erreur : " + e);
-                return 0;
-            }
+            throw new NotImplementedException();
         }
 
 
         // supprimer un compte est appeler la fonction qui modifie les IDs apres la suppression.
         public static int DeleteCompte(string path, Compte C)
         {
-            List<Compte> Comptes = new List<Compte>();
-            if (new FileInfo(path).Length > 0)
-            {
-                string json;
-                using (StreamReader r = new StreamReader(path))
-                {
-                    json = r.ReadToEnd();
-                    Comptes = JsonConvert.DeserializeObject<List<Compte>>(json);
-                }
-
-                int indexDe = Compte.SearchCompte(Comptes, C);
-                Console.WriteLine(indexDe);
-                if (indexDe >= 0)
-                {
-                    Comptes.RemoveAt(indexDe);
-                    Comptes = Compte.modifierID(Comptes);
-                    System.IO.File.WriteAllText(path, string.Empty);
-                    String JSONresultC = JsonConvert.SerializeObject(Comptes);
-
-                    using (var tw = new StreamWriter(path, true))
-                    {
-                        tw.WriteLine(JSONresultC.ToString());
-                        tw.Close();
-                    }
-                    return 1;
-                }
-                else { return 0; }
-
-            }
-            else
-            {
-                return 0;
-            }
-
+            throw new NotImplementedException();
         }
         public static int ModifierCompte(string path, Compte C)
         {
-
-            try
-            {
-
-                List<Compte> Comptes = new List<Compte>();
-                if (new FileInfo(path).Length > 0)
-                {
-                    string json;
-                    using (StreamReader r = new StreamReader(path))
-                    {
-                        json = r.ReadToEnd();
-                        Comptes = JsonConvert.DeserializeObject<List<Compte>>(json);
-                    }
-                    int indexDe = Compte.SearchCompte(Comptes, C);
-                    if (indexDe < 0)
-                    {
-                        Comptes.Add(C);
-                        Comptes[indexDe].id = C.id;
-                        Comptes[indexDe]._pseudo.Equals(C._pseudo);
-                        Comptes[indexDe].nom = C.nom;
-                        Comptes[indexDe].email = C.email;
-                        System.IO.File.WriteAllText(path, string.Empty);
-                    }
-                    else
-                    {
-                        return -1;
-                    }
-                }
-                else
-                {
-                    Comptes.Add(C);
-                }
-
-                String JSONresultC = JsonConvert.SerializeObject(Comptes);
-
-                using (var tw = new StreamWriter(path, true))
-                {
-                    tw.WriteLine(JSONresultC.ToString());
-                    tw.Close();
-                }
-                return 1;
-            }
-            catch (IOException e)
-            {
-                Console.WriteLine("Erreur : " + e);
-                return 0;
-            }
+            throw new NotImplementedException();
         }
 
 
@@ -202,17 +80,7 @@ namespace JEUX_HASARD
         public static int SearchCompte(List<Compte> Comptes, Compte C)
         {
 
-            Comptes.IndexOf(C);
-            int i = -1;
-            foreach (Compte CS in Comptes)
-            {
-                i++;
-                if (CS.nom.Equals(C.nom) && CS.email.Equals(C.email) && CS.prenom.Equals(C.prenom))
-                {
-                    return i;
-                }
-            }
-            return -1;
+            throw new NotImplementedException();
 
         }
 
@@ -220,35 +88,14 @@ namespace JEUX_HASARD
         public static List<Compte> ListeComptes()
         {
 
-            List<Compte> Comptes = new List<Compte>();
-            string json;
-            using (StreamReader r = new StreamReader(@"C:\Users\USER\Desktop\HamzaBen\compte.json"))
-            {
-                json = r.ReadToEnd();
-                Comptes = JsonConvert.DeserializeObject<List<Compte>>(json);
-            }
-            return Comptes;
+            throw new NotImplementedException();
         }
 
         // cette fonction permet de retourner le dernier ID.compte dans le fichier Json 
 
         public int lastID(string path)
         {
-            try
-            {
-                List<Compte> Comptes = new List<Compte>();
-                Comptes = Compte.ListeComptes();
-                Compte Last = new Compte();
-                Last = Comptes[Comptes.Count - 1];
-
-                return Last.id + 1;
-
-            }
-            catch (IOException e)
-            {
-                Console.WriteLine("Erreur : " + e);
-                return -1;
-            }
+            throw new NotImplementedException();
 
         }
 
@@ -256,14 +103,7 @@ namespace JEUX_HASARD
         public static List<Compte>  modifierID(List<Compte> Comptes)
         {
 
-            int i = 0;
-
-            foreach (Compte Cs in Comptes)
-            {
-                i++;
-                Cs.id = i;
-            }
-            return Comptes;
+            throw new NotImplementedException();
 
         }
 

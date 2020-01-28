@@ -7,7 +7,7 @@ using System;
 namespace JeuxHasardTest
 {
     [TestClass]
-    class TicketTest
+    public class TicketTest
     {
 
         [TestMethod]
@@ -47,16 +47,15 @@ namespace JeuxHasardTest
         [Description("")]
         public void addTicketTest()
         {
-
-
+            Ticket ticket = new Ticket(1, "245345345345345345345", 1);
+            Ticket ticket2 = new Ticket(1, "245345345345345345345", 1);
+            Ticket ticket3 = new Ticket(2, "false ticket", 2);
+            Assert.IsTrue(Ticket.ValidTicket(ticket));
+            Assert.IsFalse(Ticket.ValidTicket(ticket2));
+            Assert.IsFalse(Ticket.ValidTicket(ticket3));
         }
 
-        [TestMethod]
-        [Description("")]
-        public void deleteTicket()
-        {
-
-        }
+        
     }
 
 }

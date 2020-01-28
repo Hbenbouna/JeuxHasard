@@ -40,3 +40,13 @@ C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard\Jeux hasard\obj\Debug\n
 C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard\Jeux hasard\obj\Debug\netcoreapp2.2\Jeux hasard.AssemblyInfo.cs
 C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard\Jeux hasard\obj\Debug\netcoreapp2.2\Jeux hasard.dll
 C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard\Jeux hasard\obj\Debug\netcoreapp2.2\Jeux hasard.pdb
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\bin\Debug\netcoreapp2.2\Jeux hasard.deps.json
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\bin\Debug\netcoreapp2.2\Jeux hasard.runtimeconfig.json
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\bin\Debug\netcoreapp2.2\Jeux hasard.runtimeconfig.dev.json
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\bin\Debug\netcoreapp2.2\Jeux hasard.dll
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\bin\Debug\netcoreapp2.2\Jeux hasard.pdb
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\obj\Debug\netcoreapp2.2\Jeux hasard.csprojAssemblyReference.cache
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\obj\Debug\netcoreapp2.2\Jeux hasard.AssemblyInfoInputs.cache
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\obj\Debug\netcoreapp2.2\Jeux hasard.AssemblyInfo.cs
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\obj\Debug\netcoreapp2.2\Jeux hasard.dll
+C:\Users\Hamza BENBOUNA\Downloads\JeuxHasard\Jeux Hasard - Correction\Jeux hasard\obj\Debug\netcoreapp2.2\Jeux hasard.pdb

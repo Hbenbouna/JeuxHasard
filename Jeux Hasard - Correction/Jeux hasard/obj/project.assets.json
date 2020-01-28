@@ -3876,11 +3876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard\\Jeux hasard\\Jeux hasard.csproj",
+      "projectUniqueName": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard - Correction\\Jeux hasard\\Jeux hasard.csproj",
       "projectName": "Jeux hasard",
-      "projectPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard\\Jeux hasard\\Jeux hasard.csproj",
+      "projectPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard - Correction\\Jeux hasard\\Jeux hasard.csproj",
       "packagesPath": "C:\\Users\\Hamza BENBOUNA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard\\Jeux hasard\\obj\\",
+      "outputPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard - Correction\\Jeux hasard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

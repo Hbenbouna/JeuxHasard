@@ -7718,11 +7718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard\\JeuxHasardTest\\JeuxHasardTest.csproj",
+      "projectUniqueName": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard - Correction\\JeuxHasardTest\\JeuxHasardTest.csproj",
       "projectName": "JeuxHasardTest",
-      "projectPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard\\JeuxHasardTest\\JeuxHasardTest.csproj",
+      "projectPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard - Correction\\JeuxHasardTest\\JeuxHasardTest.csproj",
       "packagesPath": "C:\\Users\\Hamza BENBOUNA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard\\JeuxHasardTest\\obj\\",
+      "outputPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard - Correction\\JeuxHasardTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7741,8 +7741,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard\\Jeux hasard\\Jeux hasard.csproj": {
-              "projectPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard\\Jeux hasard\\Jeux hasard.csproj"
+            "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard - Correction\\Jeux hasard\\Jeux hasard.csproj": {
+              "projectPath": "C:\\Users\\Hamza BENBOUNA\\Downloads\\JeuxHasard\\Jeux Hasard - Correction\\Jeux hasard\\Jeux hasard.csproj"
             }
           }
         }
